@@ -1,0 +1,6 @@
+{
+  "name": "Abhayantra - Freedom-First Women Safety App",
+  "description": "On-demand, freedom-first safety application with confidence zones, safe route navigation, SOS emergency dispatch, fake call escape, discreet evidence recording, and multilingual support.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
